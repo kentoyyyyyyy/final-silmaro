@@ -1,1 +1,1 @@
-# final-silmaro
+![Project humbnail](./thumbnail.jpg)
